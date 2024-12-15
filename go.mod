@@ -1,4 +1,4 @@
-module github.com/alura-cursos/Curso_CI
+module github.com/lmparedes1977/CI-CD-Alura
 
 go 1.15
 

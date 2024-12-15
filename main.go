@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/alura-cursos/Curso_CI/database"
-	"github.com/alura-cursos/Curso_CI/routes"
+	"github.com/lmparedes1977/CI-CD-Alura/database"
+	"github.com/lmparedes1977/CI-CD-Alura/routes"
 )
 
 func main() {

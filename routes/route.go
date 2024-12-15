@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/alura-cursos/Curso_CI/controllers"
+	"github.com/lmparedes1977/CI-CD-Alura/controllers"
 )
 
 func HandleRequest() {

@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/alura-cursos/Curso_CI/database"
-	"github.com/alura-cursos/Curso_CI/models"
+	"github.com/lmparedes1977/CI-CD-Alura/database"
+	"github.com/lmparedes1977/CI-CD-Alura/models"
 )
 
 func Saudacoes(c *gin.Context) {
